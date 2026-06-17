@@ -53,7 +53,7 @@ Flask Dashboard
 Clone repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Security-Guard-on-reComputer-RK3576.git
+git clone https://github.com/inteintegrity/AI-Security-Guard-on-reComputer-RK3576.git
 
 cd AI-Security-Guard-on-reComputer-RK3576
 ```
