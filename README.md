@@ -98,7 +98,7 @@ http://RK3576_IP:5000
 
 ### Event Log
 
-(Add event_log screenshot)
+![Event Log](event_log.png)
 
 ## Future Improvements
 
