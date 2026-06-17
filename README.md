@@ -1,6 +1,6 @@
 # AI Security Guard on reComputer RK3576
 
-An edge AI surveillance system based on Seeed Studio reComputer RK3576 and YOLOv8.
+An edge AI security monitoring system running on Seeed Studio reComputer RK3576, featuring real-time person detection, automatic snapshot capture, event logging, and browser-based monitoring using YOLOv8.
 
 ## Overview
 
