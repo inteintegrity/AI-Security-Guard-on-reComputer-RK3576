@@ -2,7 +2,7 @@
 
 An edge AI security monitoring system running on Seeed Studio reComputer RK3576, featuring real-time person detection, automatic snapshot capture, event logging, and browser-based monitoring using YOLOv8.
 
-(background.png)
+![Background](screen_shots/background.png)
 ## Overview
 
 This project demonstrates a lightweight AI-powered security monitoring solution running entirely on the reComputer RK3576 AI Box.
@@ -95,7 +95,7 @@ http://RK3576_IP:5000
 
 ### Detection Result
 
-![Detection](detection.png)
+![Detection](screen_shots/detection.png)
 
 ### Event Log
 
